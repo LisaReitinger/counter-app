@@ -3,6 +3,9 @@
 ## Overview
 A simple, accessible, and responsive counter application built with HTML, CSS, and JavaScript. The app allows users to increment, decrement, and reset a counter value. It is designed to be visually appealing and easy to use on both desktop and mobile devices.
 
+## Live Demo
+🚀 [Try the Counter App here](https://lisareitinger.github.io/counter-app/)
+
 ---
 
 ## Features
